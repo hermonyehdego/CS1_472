@@ -1,3 +1,14 @@
+body{
+	color: rgb(64,64,64);
+	background-color: white;
+	font-family: Georgia, Garamond, Arial;
+	background-image: url("./images/silverware.jpg");
+	background-repeat: repeat;
+}
+
+
+
+
 h2{
 	color: rgb(164,164,0);
 	background-color: rgb(240,240,240);
@@ -7,39 +18,61 @@ h2{
 	font-size: 25pt;
 	letter-spacing: 0.25em;
 }
-.menu{
-	list-style-type: none;
-}
-.home{
-	vertical-align: middle;
-}
+
+
 .main{
 	text-align: center;
 	font-size: 22pt;
 	font-weight: bold;
 }
-body{
-	color: rgb(64,64,64);
-	background-color: white;
-	font-family: Georgia, Garamond, Arial;
-	background-image: url("./images/silverware.jpg");
-	background-repeat: repeat;
+
+
+.menu{
+	list-style-type: none;
 }
+
+
+.pie{
+	list-style-image: url("./images/pie_icon.gif");
+}
+
+
+
+blockquote{
+	background-color:aqua;
+	font-style: italic;
+
+}
+
+
+
 a{
-	color: rgb(164,164,0);
+	color:blue;
 }
+
 .val{
 	text-align: right;
 }
 .copy{
 	text-align: right;
 }
-blockquote{
-	background-color: rgb(255,255,168);
-	font-style: italic;
 
+
+
+
+
+.home{
+	vertical-align: middle;
 }
-.pie{
-	list-style-image: url("./images/pie_icon.gif");
-}
+
+
+
+
+
+
+
+
+
+
+
 
