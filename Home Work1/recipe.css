@@ -20,26 +20,26 @@ h2{
 }
 
 
-.main{
+.mymain{
 	text-align: center;
 	font-size: 22pt;
 	font-weight: bold;
 }
 
 
-.menu{
+.heri{
 	list-style-type: none;
 }
 
 
-.pie{
+.mypie{
 	list-style-image: url("./images/pie_icon.gif");
 }
 
 
 
 blockquote{
-	background-color:aqua;
+	background-color:burlywood;
 	font-style: italic;
 
 }
@@ -47,13 +47,13 @@ blockquote{
 
 
 a{
-	color:blue;
+	color:burlywood;
 }
 
-.val{
+.hermon{
 	text-align: right;
 }
-.copy{
+.hermon1{
 	text-align: right;
 }
 
