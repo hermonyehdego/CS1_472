@@ -2,7 +2,7 @@ body{
 	color: rgb(64,64,64);
 	background-color:darkgray;
 	font-family: Georgia, Garamond, Arial;
-	background-repeat: repeat;
+	
 }
 
 
@@ -11,6 +11,11 @@ a{
 }
 
 
+.newme{
+	
+	list-style-type:decimal;
+
+}
 h2{
 	color:darkslategrey;
 
@@ -19,6 +24,7 @@ h2{
 	font-weight:bold;
 	font-size: 25pt;
 	letter-spacing: 0.25em;
+
 }
 
 
@@ -26,6 +32,7 @@ h2{
 	text-align: center;
 	font-size: 30pt;
 	font-weight:bolder;
+	
 }
 a:hover{
     text-decoration: underline;
@@ -34,7 +41,9 @@ a:hover{
 
 .name::first-letter{
     font-size: 45px;
+	
 }
 .list{
 	color:chocolate;
 }
+
